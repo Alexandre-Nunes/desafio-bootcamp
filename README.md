@@ -65,4 +65,4 @@ $ npm run cy:run
   <img src="https://img.shields.io/badge/actions-000000?style=for-the-badge&logo=github-actions"/>
  </p> -->
 
-Autor [Alexandre Nunes](https://www.linkedin.com/in/alexandreanalistadetestesqa/) Entre em contato! 📱
+👨‍💻 Autor [Alexandre Nunes](https://www.linkedin.com/in/alexandreanalistadetestesqa/) Entre em contato! 📱
