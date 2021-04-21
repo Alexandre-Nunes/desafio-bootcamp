@@ -3,7 +3,7 @@
 </h1>
 <p align="center">🚀 Testes E2E de interfaces do usuário</p>
 
-<h1 align="center">
+<!-- <h1 align="center">
    <img alt="npm" src="https://img.shields.io/npm/v/cypress?label=cypress&logo=cypress&style=flat-square">
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/vanessafsoares/automation-practice-cypress/CI?logo=github&style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanessafsoares/automation-practice-cypress?style=flat-square">
@@ -21,7 +21,7 @@
 ### Pré-requisitos ⚙️ ###
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Cypress](https://cypress.io/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) -->
 
 
 ```ruby
@@ -48,7 +48,7 @@ $ npm run cy:run
 - [x] Cadastro de usuário
 - [x] Compra
 
-
+<!-- 
  ## Stack
  <p align="center">
   <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript"/>
@@ -56,5 +56,5 @@ $ npm run cy:run
   <img src="https://img.shields.io/badge/mocha-000000?style=for-the-badge&logo=mocha"/>
   <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint"/>
   <img src="https://img.shields.io/badge/actions-000000?style=for-the-badge&logo=github-actions"/>
- </p>
+ </p> -->
 
