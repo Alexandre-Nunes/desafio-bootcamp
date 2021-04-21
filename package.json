@@ -6,9 +6,9 @@
   "scripts": {
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
-    "report:merge": "mochawesome-merge > index.js",
-    "report:mocha": "marge index.js",
-    "report:clean": "rm -rf mochawesome-report index.js"
+    "report:merge": "mochawesome-merge > index",
+    "report:mocha": "marge index",
+    "report:clean": "rm -rf mochawesome-report index"
   },
   "keywords": [],
   "author": "",

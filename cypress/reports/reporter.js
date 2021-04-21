@@ -2,7 +2,7 @@
 const options = {
 
     theme: 'bootstrap',
-    output: 'cypress/reports/index.html',
+    output: 'mochawesome-report/index.html',
     reportSuiteAsScenarios: true,
     scenarioTimestamp: true,
     launchReport: true,
