@@ -1,13 +1,15 @@
 <h1 align="center">
     <a href="http://automationpractice.com/index.php">🔗 Automation Practice</a>
 </h1>
-<p align="center">🚀 Testes E2E de interfaces do usuário</p>
+<p align="center">🚀 Testes UI com Cypress</p>
 
 <p align="center">
   <kbd>
     <img width="1050" style="border-radius: 5px" height="250" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/capa.jpg" alt="Intro">
   </kbd>
 </p>
+
+### Executando os testes 💻
 
 <p align="center">
   <kbd>
@@ -22,6 +24,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) -->
 
 
+### Passo a passo 📖
 ```ruby
 # Clone este repositório
 $ git clone <git@github.com:Alexandre-Nunes/desafio-bootcamp.git>
@@ -47,7 +50,7 @@ $ npm run cy:run
 
 - [x] Cadastro de usuário
 
-
+🛠️ ### Tecnologias utilizadas
  ## Stack
  <p align="center">
   <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript"/>
@@ -57,3 +60,4 @@ $ npm run cy:run
   <img src="https://img.shields.io/badge/actions-000000?style=for-the-badge&logo=github-actions"/>
  </p> -->
 
+[Autor](https://www.linkedin.com/in/alexandreanalistadetestesqa/) Entre em contato!📱
