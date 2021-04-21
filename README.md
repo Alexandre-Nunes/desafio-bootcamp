@@ -3,16 +3,9 @@
 </h1>
 <p align="center">🚀 Testes E2E de interfaces do usuário</p>
 
- <!-- <h1 align="center">
-   <img alt="npm" src="https://img.shields.io/npm/v/cypress?label=cypress&logo=cypress&style=flat-square">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/vanessafsoares/automation-practice-cypress/CI?logo=github&style=flat-square">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanessafsoares/automation-practice-cypress?style=flat-square">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/vanessafsoares/automation-practice-cypress?style=flat-square">
- </h1> -->
-
 <p align="center">
   <kbd>
-    <img width="1050" style="border-radius: 5px" height="550" src="https://github.com/vanessafsoares/automation-practice-cypress/blob/main/gh-images/compraspecjs.gif" alt="Intro">
+    <img width="1050" style="border-radius: 5px" height="550" src="C:\Users\alexandre.nunes\Downloads\video-unscreen.gif" alt="Intro">
   </kbd>
 </p>
 
