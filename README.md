@@ -9,7 +9,7 @@
   </kbd>
 </p>
 
-### Executando os testes 💻
+### 💻 Executando os testes 
 
 <p align="center">
   <kbd>
@@ -18,13 +18,13 @@
 </p>
 
 
-### Pré-requisitos ⚙️ ###
+### ⚙️ Pré-requisitos 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Cypress](https://cypress.io/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) -->
 
 
-### Passo a passo 📖
+### 📖 Passo a passo 
 ```ruby
 # Clone este repositório
 $ git clone <git@github.com:Alexandre-Nunes/desafio-bootcamp.git>
