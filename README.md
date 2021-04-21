@@ -41,6 +41,7 @@ $ npm run cy:run
 
 ```
 
+![gh-pages](https://alexandre-nunes.github.io/desafio-bootcamp/)
 
  ## Cenários :white_check_mark:
 
