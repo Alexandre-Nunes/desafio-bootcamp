@@ -15,7 +15,6 @@
   </kbd>
 </p>
 
-## Começando 💻
 
 ### Pré-requisitos ⚙️ ###
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -41,7 +40,8 @@ $ npm run cy:run
 
 ```
 
-![gh-pages](https://alexandre-nunes.github.io/desafio-bootcamp/)
+### Relatório de testes com mochawesome
+[gh-pages](https://alexandre-nunes.github.io/desafio-bootcamp/)
 
  ## Cenários :white_check_mark:
 
