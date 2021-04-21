@@ -5,7 +5,13 @@
 
 <p align="center">
   <kbd>
-    <img width="1050" style="border-radius: 5px" height="550" src="C:\Users\alexandre.nunes\Downloads\video-unscreen.gif" alt="Intro">
+    <img width="470" style="border-radius: 5px" height="300" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/capa.jpg" alt="Intro">
+  </kbd>
+</p>
+
+<p align="center">
+  <kbd>
+    <img width="1050" style="border-radius: 5px" height="550" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/video-unscreen.gif" alt="Intro">
   </kbd>
 </p>
 
