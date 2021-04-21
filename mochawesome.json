@@ -5,9 +5,9 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2021-04-21T17:07:59.675Z",
-    "end": "2021-04-21T17:08:42.045Z",
-    "duration": 42370,
+    "start": "2021-04-21T17:11:25.168Z",
+    "end": "2021-04-21T17:11:49.298Z",
+    "duration": 24130,
     "testsRegistered": 1,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "2368a1bb-babd-4942-8b5b-816706fcbc00",
+      "uuid": "a17edc1d-1ae6-4f21-9ef1-073cc5d4c674",
       "title": "",
       "fullFile": "cypress/integration/cadastro.spec.js",
       "file": "cypress/integration/cadastro.spec.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "90ae92eb-6b38-44ac-8602-8710ec54c68b",
+          "uuid": "be21cd4a-5ee9-4603-831d-cf241298694b",
           "title": "Cadastro",
           "fullFile": "",
           "file": "",
@@ -38,7 +38,7 @@
               "title": "Cadastrar um novo usuário",
               "fullTitle": "Cadastro Cadastrar um novo usuário",
               "timedOut": null,
-              "duration": 42303,
+              "duration": 24075,
               "state": "passed",
               "speed": "slow",
               "pass": true,
@@ -47,20 +47,20 @@
               "context": null,
               "code": "cy.visit('/');\ncy.get('.login').click();\ncy.get('#email_create').type(chance.email({\n  domain: \"teste.com\"\n}));\ncy.get('#SubmitCreate').click();\ncy.get('#id_gender1').check();\ncy.get('#customer_firstname').type(chance.first());\ncy.get('#customer_lastname').type(chance.last());\ncy.get('#passwd').type('Teste@123');\ncy.get('#days').select('20');\ncy.get('#months').select('5');\ncy.get('#years').select('2000');\ncy.get('#company').type(chance.company());\ncy.get('#address1').type(chance.address());\ncy.get('#address2').type('Casa');\ncy.get('#city').type(chance.city());\ncy.get('#id_country').select('United States');\ncy.get('select#id_state').select('11');\ncy.get('#postcode').type('00000');\ncy.get('#other').type('Desafio Bootcamp Agilizei');\ncy.get('#phone_mobile').type('48999999999');\ncy.get('#submitAccount').click();\ncy.url().should('contain', 'my-account');\ncy.get('#page').should('contain', 'Welcome to your account.');",
               "err": {},
-              "uuid": "1c60d794-1325-4e1d-893e-1f842ee6d159",
-              "parentUUID": "90ae92eb-6b38-44ac-8602-8710ec54c68b",
+              "uuid": "596d298d-8118-4bd8-b53c-b6fcb7686db0",
+              "parentUUID": "be21cd4a-5ee9-4603-831d-cf241298694b",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "1c60d794-1325-4e1d-893e-1f842ee6d159"
+            "596d298d-8118-4bd8-b53c-b6fcb7686db0"
           ],
           "failures": [],
           "pending": [],
           "skipped": [],
-          "duration": 42303,
+          "duration": 24075,
           "root": false,
           "rootEmpty": false,
           "_timeout": 2000
