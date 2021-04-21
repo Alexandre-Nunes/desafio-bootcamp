@@ -1,13 +1,11 @@
 <h1 align="center">
     <a href="http://automationpractice.com/index.php">🔗 Automation Practice</a>
 </h1>
-<h1 align="center">
-   <a ### 🚀 Testes UI com Cypress> </a>
-</h1>
+<p align="center">🚀 Testes UI com Cypress ###</p>
 
 <p align="center">
   <kbd>
-    <img width="900" style="border-radius: 5px" height="250" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/capa.jpg" alt="Intro">
+    <img width="900" style="border-radius: 5px" height="250" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/CapaAlexandre.jpg" alt="Intro">
   </kbd>
 </p>
 
