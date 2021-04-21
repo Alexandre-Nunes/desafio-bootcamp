@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-    <img width="1050" style="border-radius: 5px" height="300" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/capa.jpg" alt="Intro">
+    <img width="1050" style="border-radius: 5px" height="250" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/capa.jpg" alt="Intro">
   </kbd>
 </p>
 
@@ -45,7 +45,6 @@ $ npm run cy:run
  ## Cenários :white_check_mark:
 
 - [x] Cadastro de usuário
-- [x] Compra
 
 
  ## Stack
@@ -53,7 +52,7 @@ $ npm run cy:run
   <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress"/>
   <img src="https://img.shields.io/badge/mocha-000000?style=for-the-badge&logo=mocha"/>
-  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint"/>
+  <img src="https://img.shields.io/badge/actions-000000?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/actions-000000?style=for-the-badge&logo=github-actions"/>
  </p> -->
 
