@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-    <img width="1050" style="border-radius: 5px" height="250" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/capa.jpg" alt="Intro">
+    <img width="900" style="border-radius: 5px" height="250" src="https://github.com/Alexandre-Nunes/desafio-bootcamp/blob/master/gh-images/capa.jpg" alt="Intro">
   </kbd>
 </p>
 
@@ -50,8 +50,8 @@ $ npm run cy:run
 
 - [x] Cadastro de usuário
 
-🛠️ ### Tecnologias utilizadas
- ## Stack
+
+### 🛠️ Tecnologias utilizadas
  <p align="center">
   <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress"/>
@@ -60,4 +60,4 @@ $ npm run cy:run
   <img src="https://img.shields.io/badge/actions-000000?style=for-the-badge&logo=github-actions"/>
  </p> -->
 
-[Autor](https://www.linkedin.com/in/alexandreanalistadetestesqa/) Entre em contato!📱
+Autor [Alexandre Nunes](https://www.linkedin.com/in/alexandreanalistadetestesqa/) Entre em contato! 📱
