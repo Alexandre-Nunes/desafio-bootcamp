@@ -3,12 +3,12 @@
 </h1>
 <p align="center">🚀 Testes E2E de interfaces do usuário</p>
 
-<!-- <h1 align="center">
+ <!-- <h1 align="center">
    <img alt="npm" src="https://img.shields.io/npm/v/cypress?label=cypress&logo=cypress&style=flat-square">
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/vanessafsoares/automation-practice-cypress/CI?logo=github&style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanessafsoares/automation-practice-cypress?style=flat-square">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/vanessafsoares/automation-practice-cypress?style=flat-square">
- </h1>
+ </h1> -->
 
 <p align="center">
   <kbd>
@@ -26,7 +26,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```ruby
 # Clone este repositório
-$ git clone <https://github.com/vanessafsoares/automation-practice>
+$ git clone <git@github.com:Alexandre-Nunes/desafio-bootcamp.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd automation-practice
@@ -48,7 +48,7 @@ $ npm run cy:run
 - [x] Cadastro de usuário
 - [x] Compra
 
-<!-- 
+
  ## Stack
  <p align="center">
   <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript"/>
