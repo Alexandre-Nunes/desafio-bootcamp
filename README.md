@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="http://automationpractice.com/index.php">🔗 Automation Practice</a>
 </h1>
-<p align="center">🚀 Testes UI com Cypress ###</p>
+<p align="center">🚀 Testes UI com Cypress </p>
 
 <p align="center">
   <kbd>
